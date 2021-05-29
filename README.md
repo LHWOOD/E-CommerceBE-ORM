@@ -4,7 +4,7 @@
 
 ## Description
 
-back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
+Back end for an e-commerce site made with Express.js API and Sequelize interacting with a MySQL database.
 
 ## Table of Contents
 
@@ -22,11 +22,12 @@ back end for an e-commerce site by modifying starter code. You’ll configure a 
 
 ## Installation
 
-TBD
+Express, Sequelize, MySQL Workbench, and Insomnia required.
 
 ## Usage
 
-TBD
+Please watch the following video for a tutorial.
+https://drive.google.com/file/d/18KUVRi1R2QcBbun-AAiOIaC9ALKWIej_/view?usp=sharing
 
 ## Contributing
 
@@ -34,7 +35,7 @@ Please feel free to contribute to future versions.
 
 ## Tests
 
-N?A
+Routes were tested via Insomnia.
 
 ## License
 
